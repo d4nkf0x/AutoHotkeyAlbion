@@ -1,7 +1,7 @@
 # AutoHotkeyAlbion:  
 This is for auto hotkey skills and etc.
 
-You can Edit the **AutoHotkeyAlbion.py** File if you need modifications  
+You can Edit the **AlbionAutoHotkey** File if you need modifications  
 **You need to run this as root**    
 **Tested on Linux only**  
 # Requirements:    
@@ -38,7 +38,7 @@ Note: replace <folder> with the actual folder name !!!
   
 Then do:  
 ```bash
-sudo python3 AutoHotkeyAlbion.py
+sudo python3 AlbionAutoHotkey.py
 ```  
 **CTRL+SHIFT+C** to **[START]**  
 **Move mouse pointer** to **any of the 4 corners of the screen** to **[STOP]**  

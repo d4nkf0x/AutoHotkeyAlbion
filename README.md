@@ -2,11 +2,38 @@
 This is for auto hotkey skills and etc.
 
 You can Edit the **AlbionAutoHotkey** File if you need modifications  
-**You need to run this as root**    
+**You need to run this as root on Linux**    
 **Tested on Linux only**  
+**You can try on Windows too**
+**Doesn't work on mobile**
 ## Requirements:    
 **Run These Commands:**    
+#### Windows:  
+**Run CMD as admin**  
+Install Python:  
+1. Download [Python Installer for Windows](https://www.python.org/downloads/windows/)  
+2. Install  
+3. Check on CMD(Admin) if python is installed:  
+```bash  
+python
+```  
   
+Install pip:  
+1. Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)  
+2. Goto Download folder  
+```python
+cd <Download_folder> #Replace <Download_folder> with the actual folder path 
+```  
+4. Run this command:  
+```bash
+python get-pip.py
+```  
+  
+Install dependencies:  
+```bash
+pip install dearpygui keyboard asyncio threading pyautogui  
+```  
+#### Linux:  
 Install Python:  
 ```bash  
 sudo apt install python3 
@@ -37,6 +64,13 @@ cd <folder>
 Note: replace <folder> with the actual folder name !!!  
   
 Then do:  
+  
+Windows:  
+```bash  
+python AlbionAutoHotkey.py  
+```  
+  
+Linux:  
 ```bash
 sudo python3 AlbionAutoHotkey.py
 ```  

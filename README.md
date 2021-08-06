@@ -44,6 +44,6 @@ sudo python3 AlbionAutoHotkey.py
 **Move mouse pointer** to **any of the 4 corners of the screen** to **[STOP]**  
   
 GUI will show up!!!  
-![alt text](https://github.com/d4nkf0x/AutoHotkeyAlbion/blob/main/Screenshot.png?raw=true)
+![alt text](https://github.com/d4nkf0x/AutoHotkeyAlbion/blob/main/Screenshot.png?raw=true)  
 **You can select the keys you want to Spam** Enjoy :)  
 Good Luck :)

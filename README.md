@@ -4,7 +4,7 @@ This is for auto hotkey skills and etc.
 You can Edit the **AlbionAutoHotkey** File if you need modifications  
 **You need to run this as root**    
 **Tested on Linux only**  
-# Requirements:    
+## Requirements:    
 **Run These Commands:**    
   
 Install Python:  
@@ -22,12 +22,12 @@ Install dependencies:
 sudo pip install dearpygui keyboard asyncio threading pyautogui  
 ```  
   
-# Installation:    
+## Installation:    
   
 1.**Clone this repository**  
 2.**Extract**  
   
-# Usage:  
+## Usage:  
   
 Go to extracted folder:
 ```bash  

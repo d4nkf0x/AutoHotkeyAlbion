@@ -42,8 +42,12 @@ sudo python3 AlbionAutoHotkey.py
 ```  
 **CTRL+SHIFT+C** to **[START]**  
 **Move mouse pointer** to **any of the 4 corners of the screen** to **[STOP]**  
+## Explanation:  
+For those who know python programming and ```bash pyautogui ``` module  
+if you drag your mouse to any of the 4 corners of the screen it will send ```bash pyautogui.FailSafeException ```  
+which will break the loop. I have tried using a hotkey to raise the exception but unsuccessfull so I left the methods as is  
+if anyone can contribute on how to bind "CTRL+Shift+C" to end the loop you can fork the repo and contribute
   
-GUI will show up!!!  
+## GUI:  
 ![alt text](https://github.com/d4nkf0x/AutoHotkeyAlbion/blob/main/Screenshot.png?raw=true)  
-**You can select the keys you want to Spam** Enjoy :)  
-Good Luck :)
+**You can select the keys you want to Spam** 

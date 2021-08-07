@@ -4,7 +4,7 @@ This is for auto hotkey skills and etc.
 You can Edit the **AlbionAutoHotkey** File if you need modifications  
 **You need to run this as root on Linux**    
 **Tested on Linux only**  
-**You can try on Windows too**
+**You can try on Windows too**  
 **Doesn't work on mobile**
 ## Requirements:    
 **Run These Commands:**    
